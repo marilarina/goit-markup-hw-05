@@ -215,7 +215,7 @@ img {
 }
 .modal-close-btn:hover, 
 .modal-close-btn:focus {
-    background-color: #404BBF;
+    background-color: var(--activebutton-background);
 }
 .modal-close-icon {
     position: absolute;
